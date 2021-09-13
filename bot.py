@@ -6,6 +6,7 @@ from discord.ext import commands
 import asyncio
 from datetime import datetime
 from threading import Thread
+from music import Player
 import threading
 import time
 import requests
